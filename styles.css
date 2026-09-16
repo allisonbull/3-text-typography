@@ -1,0 +1,27 @@
+html{
+    background-color:bisque;
+font-family: "p22-typewriter", sans-serif;
+}
+
+.site-header {
+    background-color:rgb(81, 31, 2);
+color:antiquewhite;
+ font-family: "Courier Prime", monospace;
+ font-size: 60px;
+ lineheight: 20px;
+font-weight:100;
+text-align:center;
+
+
+}
+
+
+.callout {color:rgb(169, 96, 74)
+font-weight: 900;
+}
+
+
+.address {
+text-align: right;
+
+}
